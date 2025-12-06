@@ -1,7 +1,5 @@
-- Business name & address
-- GSTIN details
-- Bank account information
-- Logo and branding
-
-### GST Portal Integration
-1. **Sandbox Mode** (Testing)
+Settings → Business Profile → Complete:
+- Legal name & address
+- Bank account details
+- Logo upload
+- Signature
